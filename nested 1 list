@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <ul>
+        <li>PYTHON</li>
+        <ul>
+            <li>CORE PYTHON</li>
+            <ul>
+                <li>OOPS</li>
+                </ul>
+                
+                    <li>SQL</li>
+                    <li>WEB TECH</li>
+                </ul>
+                
+            
+        </ul>
+    </ul>
+    
+</body>
+</html>
